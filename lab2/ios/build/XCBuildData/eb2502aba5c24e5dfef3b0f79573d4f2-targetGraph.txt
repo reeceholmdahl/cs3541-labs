@@ -1,0 +1,65 @@
+Target dependency graph (23 targets)
+nanopb-framework in Pods
+GoogleDataTransport-framework in Pods, depends on:
+nanopb-framework in Pods (explicit)
+PromisesObjC-framework in Pods
+GoogleUtilities-framework in Pods, depends on:
+PromisesObjC-framework in Pods (explicit)
+FirebaseCoreDiagnostics-framework in Pods, depends on:
+GoogleDataTransport-framework in Pods (explicit)
+GoogleUtilities-framework in Pods (explicit)
+nanopb-framework in Pods (explicit)
+FirebaseCore-framework in Pods, depends on:
+FirebaseCoreDiagnostics-framework in Pods (explicit)
+GoogleUtilities-framework in Pods (explicit)
+GTMSessionFetcher-framework in Pods
+FirebaseAuth-framework in Pods, depends on:
+FirebaseCore-framework in Pods (explicit)
+GTMSessionFetcher-framework in Pods (explicit)
+GoogleUtilities-framework in Pods (explicit)
+leveldb-library-framework in Pods
+FirebaseDatabase-framework in Pods, depends on:
+FirebaseCore-framework in Pods (explicit)
+leveldb-library-framework in Pods (explicit)
+Firebase-framework in Pods, depends on:
+FirebaseAuth-framework in Pods (explicit)
+FirebaseCore-framework in Pods (explicit)
+FirebaseDatabase-framework in Pods (explicit)
+nanopb-library in Pods
+GoogleDataTransport-library in Pods, depends on:
+nanopb-library in Pods (explicit)
+PromisesObjC-library in Pods
+GoogleUtilities-library in Pods, depends on:
+PromisesObjC-library in Pods (explicit)
+FirebaseCoreDiagnostics-library in Pods, depends on:
+GoogleDataTransport-library in Pods (explicit)
+GoogleUtilities-library in Pods (explicit)
+nanopb-library in Pods (explicit)
+FirebaseCore-library in Pods, depends on:
+FirebaseCoreDiagnostics-library in Pods (explicit)
+GoogleUtilities-library in Pods (explicit)
+GTMSessionFetcher-library in Pods
+FirebaseAuth-library in Pods, depends on:
+FirebaseCore-library in Pods (explicit)
+GTMSessionFetcher-library in Pods (explicit)
+GoogleUtilities-library in Pods (explicit)
+leveldb-library-library in Pods
+FirebaseDatabase-library in Pods, depends on:
+FirebaseCore-library in Pods (explicit)
+leveldb-library-library in Pods (explicit)
+Firebase-library in Pods, depends on:
+FirebaseAuth-library in Pods (explicit)
+FirebaseCore-library in Pods (explicit)
+FirebaseDatabase-library in Pods (explicit)
+Pods-Runner in Pods, depends on:
+Firebase-framework in Pods (explicit)
+FirebaseAuth-framework in Pods (explicit)
+FirebaseCore-framework in Pods (explicit)
+FirebaseCoreDiagnostics-framework in Pods (explicit)
+FirebaseDatabase-framework in Pods (explicit)
+GTMSessionFetcher-framework in Pods (explicit)
+GoogleDataTransport-framework in Pods (explicit)
+GoogleUtilities-framework in Pods (explicit)
+PromisesObjC-framework in Pods (explicit)
+leveldb-library-framework in Pods (explicit)
+nanopb-framework in Pods (explicit)

@@ -1,0 +1,13 @@
+Added KPG to Unit Type constant
+Added conversion from MPG->KPG in units_utils MPG calculator function
+Added radio button and KPG text to units selector area
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch holmd353
+# Changes to be committed:
+#	modified:   lib/units/utils/units_constant.dart
+#	modified:   lib/units/utils/units_utils.dart
+#	modified:   lib/units/viewmodel/units_viewmodel.dart
+#	modified:   lib/units/views/units_component.dart
+#

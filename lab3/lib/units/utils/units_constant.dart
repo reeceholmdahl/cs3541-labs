@@ -1,0 +1,4 @@
+enum UnitType{
+  MPG,
+  KPG
+}
